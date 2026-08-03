@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main(){
-    int num = 19;
+    int num = 997;
     int count=0;
-    for (int i = 1; i <= 10; i++)
+    for (int i = 2; i <= 10; i++)
     {
        if (num%i==0)
        {
