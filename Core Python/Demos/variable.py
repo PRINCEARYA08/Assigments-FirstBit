@@ -1,8 +1,3 @@
-###1. Numeric
-#1. int 
-
-#int var   #variable declaration
-var = 10  #variable initialization
 
 # in memoery alocation story data in RHS said variable name in LHS
 
