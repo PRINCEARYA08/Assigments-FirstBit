@@ -1,6 +1,6 @@
-# p = input(int("Enter principle: "))
-# r = input(int("Enter rate: "))
-# t = input(int("Enter time: "))
+# p = input(float("Enter principle: "))
+# r = input(float("Enter rate: "))
+# t = input(float("Enter time: "))
 
 p = float(input("Enter principle: "))
 r = float(input("Enter rate: "))
