@@ -8,6 +8,8 @@ area = 100
 interior = 20
 exterior = 15
 
+# 2*4=8
+#8-2   (area of same wall) = 6
 total_area = area * 6
 
 interior_cost = total_area * interior
