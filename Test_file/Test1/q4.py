@@ -1,3 +1,9 @@
+#area = float(input("Enter area of the house: "))
+#interior = int(input("Enter interior cost : "))
+#exterior = int(input("Enter exterior cost: "))
+
+
+
 area = 100
 interior = 20
 exterior = 15
