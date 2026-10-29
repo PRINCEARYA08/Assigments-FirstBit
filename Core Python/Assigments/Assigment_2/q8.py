@@ -6,6 +6,7 @@ b = int(input("Enter second number: "))
 c=a
 a=b
 b=c
-print("after swap")
-print("first number:",a)
-print("second number:",b)
+
+print("After swapping:")
+print("a =", a)
+print("b =", b)
